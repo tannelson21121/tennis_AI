@@ -2,7 +2,7 @@
 # Tennis Analysis
 
 ## Introduction
-Centered on refining machine learning and computer vision abilities, this project delves into the analysis of tennis players in videos to quantify their speed, ball shot velocity, and shot count. We will leverage on YOLO (You Only Look Once) for players and tennis ball detection, and harnessing CNNs (Convolutional Neural Networks) for court keypoint extraction.
+Centered on refining machine learning and computer vision abilities, this project delves into the analysis of tennis players in videos to quantify their speed, ball shot velocity, and shot count. We will leverage on YOLO (You Only Look Once) for players and tennis ball detection, and harness CNNs (Convolutional Neural Networks) for court keypoint extraction.
 
 ## Output Videos
 Here is a screenshot from one of the output videos:
